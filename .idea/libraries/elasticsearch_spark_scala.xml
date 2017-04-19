@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="elasticsearch-spark-scala">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/下载/elasticsearch-spark-13_2.10-5.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

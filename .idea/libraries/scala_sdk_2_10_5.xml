@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="scala-sdk-2.10.5" type="Scala">
+    <properties>
+      <option name="languageLevel" value="Scala_2_10" />
+      <compiler-classpath>
+        <root url="file:///opt/scala/scala211/lib/scala-library.jar" />
+        <root url="file:///opt/scala/scala211/lib/scala-reflect.jar" />
+        <root url="file:///opt/scala/scala211/lib/scala-compiler.jar" />
+      </compiler-classpath>
+    </properties>
+    <CLASSES>
+      <root url="jar:///opt/scala/scala211/lib/scala-actors.jar!/" />
+      <root url="jar:///opt/scala/scala211/lib/scala-library.jar!/" />
+      <root url="jar:///opt/scala/scala211/lib/scala-reflect.jar!/" />
+      <root url="jar:///opt/scala/scala211/lib/scala-actors-migration.jar!/" />
+      <root url="jar:///opt/scala/scala211/lib/scala-swing.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar:///opt/scala/scala211/src/scala-swing-src.jar!/" />
+      <root url="jar:///opt/scala/scala211/src/scala-library-src.jar!/" />
+      <root url="jar:///opt/scala/scala211/src/scala-reflect-src.jar!/" />
+      <root url="jar:///opt/scala/scala211/src/scala-actors-src.jar!/" />
+    </SOURCES>
+  </library>
+</component>

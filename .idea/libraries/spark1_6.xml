@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="spark1.6">
+    <CLASSES>
+      <root url="jar:///opt/spark/spark1.6/lib/datanucleus-api-jdo-3.2.6.jar!/" />
+      <root url="jar:///opt/spark/spark1.6/lib/datanucleus-core-3.2.10.jar!/" />
+      <root url="jar:///opt/spark/spark1.6/lib/datanucleus-rdbms-3.2.9.jar!/" />
+      <root url="jar:///opt/spark/spark1.6/lib/spark-1.6.0-yarn-shuffle.jar!/" />
+      <root url="jar:///opt/spark/spark1.6/lib/spark-assembly-1.6.0-hadoop2.4.0.jar!/" />
+      <root url="jar:///opt/spark/spark1.6/lib/spark-examples-1.6.0-hadoop2.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar:///opt/spark/spark1.6/lib/spark-1.6.0-yarn-shuffle.jar!/" />
+      <root url="jar:///opt/spark/spark1.6/lib/spark-assembly-1.6.0-hadoop2.4.0.jar!/" />
+    </SOURCES>
+  </library>
+</component>
